@@ -11,3 +11,5 @@ Jetpack Compose animated splash screen
 
 - Jetpack Compose
 - Animated Splash Screen
+
+Best code that you won't find any where
